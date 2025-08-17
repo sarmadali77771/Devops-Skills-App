@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevOps Engineer Essentials</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Cloud DevOps Engineer Essential Skills</h1>
+        <div class="skills-container">
+            {% for skill in skills %}
+            <div class="skill-bubble" data-description="{{ skill.description }}">
+                {{ skill.name }}
+                <div class="skill-description">{{ skill.description }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
