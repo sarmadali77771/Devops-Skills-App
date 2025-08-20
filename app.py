@@ -12,7 +12,7 @@ skills = [
     {"name": "Bash", "description": "Bash is a Unix shell and command language for automation"},
     {"name": "Kubernetes", "description": "Kubernetes is an open-source container orchestration tool"},
     {"name": "Ansible", "description": "Ansible is an open-source automation tool used for configuration management,and task automation..."},
-    {"name": "Jenkins", "description": "Jenkins is an open-source automation server for CI/CD..."},
+    {"name": "Jenkins", "description": "Jenkins is an open-source automation server for CI/CD pipeline..."},
     {"name": "Terraform", "description": "Terraform is an infrastructure as code tool..."},
     {"name": "Grafana", "description": "Grafana is an open-source analytics and monitoring..."},
     {"name": "Prometheus", "description": "Prometheus is an open-source monitoring system..."},
