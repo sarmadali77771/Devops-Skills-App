@@ -6,7 +6,7 @@ app = Flask(__name__)
 # Skill data
 skills = [
     {"name": "Linux", "description": "Linux is an open source os and the foundation of most DevOps workflows..."},
-    {"name": "Docker", "description": "Docker is a platform for developing app, and shipping in isolated environment.."},
+    {"name": "Docker", "description": "Docker allows developers to package, ship, and run applications in isolated environment called containers.."},
     {"name": "Git", "description": "Git is a distributed version control system..."},
     {"name": "Python", "description": "Python is a versatile programming language..."},
     {"name": "Bash", "description": "Bash is a Unix shell and command language for automation"},
