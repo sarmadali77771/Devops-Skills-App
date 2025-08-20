@@ -9,7 +9,7 @@ skills = [
     {"name": "Docker", "description": "Docker is a platform for developing app, and shipping in isolated environment.."},
     {"name": "Git", "description": "Git is a distributed version control system..."},
     {"name": "Python", "description": "Python is a versatile programming language..."},
-    {"name": "Bash", "description": "Bash is a Unix shell and command language..."},
+    {"name": "Bash", "description": "Bash is a Unix shell and command language for automation"},
     {"name": "Kubernetes", "description": "Kubernetes is an open-source container orchestration tool"},
     {"name": "Ansible", "description": "Ansible is an open-source automation tool.."},
     {"name": "Jenkins", "description": "Jenkins is an open-source automation server for CI/CD"},
