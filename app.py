@@ -17,7 +17,7 @@ skills = [
     {"name": "Grafana", "description": "Grafana is an open-source analytics and monitoring..."},
     {"name": "Prometheus", "description": "Prometheus is an open-source monitoring system..."},
     {"name": "AWS", "description": "Amazon Web Services is a cloud computing platform..."},
-    {"name": "Azure", "description": "Microsoft Azure is a cloud computing service..."},
+    {"name": "Azure", "description": "Microsoft Azure is a cloud computing service provider..."},
 ]
 
 @app.route('/')
